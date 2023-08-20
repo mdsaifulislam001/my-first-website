@@ -1,0 +1,47 @@
+
+.zigzag-text-bg-1 {
+    background-color: gold;
+    height: 350px;
+    width: auto;
+    position:relative;
+    padding-left: 10%;
+    padding-top: 20px;
+}
+.p1{
+    background-color: brown;
+}
+.p2{
+    width: 20%;
+    text-align:justify;
+}
+
+.container p{
+
+    width: 30%;
+    text-align: justify;
+}
+.boxed-button{
+    text-decoration: none;
+    background-color: aquamarine;
+    border-style: solid;
+  border-color:aquamarine;
+  padding: 5px;
+}
+
+.d{
+    height: 20px;
+    width: auto;
+    background-color: chocolate;
+}
+
+.zigzag-text-bg-2 {
+    float:right;
+    background-color: crimson;
+    height: 350px;
+    width: auto;
+}
+
+.col-md-6{
+    left: 200px;
+}
+
